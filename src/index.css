@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+*     {padding: 0; margin: 0; text-align: center; user-select: none;}
+body    {background-color: #222; }
+#primary  {background-color: #000; height: 47vw; width: 40vw; color: #000; font-size: 0vw; margin: auto;}
+#top        {background-color: #888; height: 07vw; width: 40vw; color: #000; font-size: 0vw; padding: 1vw;}
+#middle     {background-color: #666; height: 40vw; width: 40vw; color: #000; font-size: 0vw; padding: 1vw;}
+.Navbar       {background-color: #777; height: 05vw; width: 38vw; color: #fff; font-size: 0vw; margin-left: .1vw; padding-top: .9vw;}
+.Navlink      {background-color: #666; height: 03vw; width: 11.5vw; color: #fff; font-size: 1.5vw; margin-left: .9vw;}
+.Loginbox     {background-color: #555; height: 38vw; width: 38vw; color: #fff; font-size: 2vw; border: .25vw solid #000;}
+h3            {font-size: 4vw;}
